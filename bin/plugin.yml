@@ -1,0 +1,12 @@
+name: MC-Cooldown
+author: Offlical
+version: 1.0
+main: dev.offlical.mccd.Main
+api-version: 1.13
+description: MCCD Plugin
+
+commands:
+    mccooldown:
+       Usage: /<command>
+       desription: Change settings for the minecraft cooldown plugin!
+       aliases: [mccd]

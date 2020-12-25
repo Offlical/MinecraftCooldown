@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MC-Cooldown.jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="MinecraftCooldown.jar">
+      <element id="module-output" name="MinecraftCooldown" />
+    </root>
+  </artifact>
+</component>

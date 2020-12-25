@@ -1,0 +1,21 @@
+enabled: false
+cooldown: 3
+randomCooldown: false
+Events:
+    REGEN: true
+    DAMAGE: true
+    MOVE_UP: true
+    MOVE_HORZ: true
+    CONSUME: true
+    BLOCK_DAMAGE: true
+    PICKUP: true
+    DROP: true
+    BLOCK_BREAK: true
+    BLOCK_PLACE: true
+    BOW_SHOT: true
+    CRAFT: true
+    IGNITE: true
+    INTERACT_RIGHT: true
+    INTERACT_LEFT: true
+    BUCKET: true
+    BUCKET_EMPTY: true
